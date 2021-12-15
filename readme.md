@@ -1,7 +1,7 @@
-################################################################## Health Clinic
+################################################################## My Health Clinic
 
 ## Overview
-It's My Health Clinic, a sample app built for demonstration and training purposes, is for a fictious health care provider **HealthClinic.biz**. 
+My Health Clinic, a sample application built for demon and training purposes, is for a fictious health care provider **HealthClinic.biz**. 
 HealthClinic.biz uses different Microsoft and multi-channel apps built with Visual Studio and Azure to grow their business and modernize their customer experience. 
 They also innovate and offer multiple apps and services—including websites, mobile apps, and wearable apps—to empower their patient’s well-being with easy access to manage their healthcare data and stay healthy.
 
